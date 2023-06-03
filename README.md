@@ -1,1 +1,2 @@
-# odin-recipes
+# odin-recipes  
+This website is an HTML study project featuring recipes for various dishes I found online. The most important thing I want to get out of this is a good amount of CSS knowledge later when I come back to style it.
