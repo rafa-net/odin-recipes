@@ -3,3 +3,8 @@
 * {
   font-family: 'Playfair Display', serif;
 }
+
+img {
+  height: auto;
+  width: 800px;
+}
